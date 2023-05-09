@@ -43,7 +43,7 @@ public class Tarefa1a {
         }
         
         if (opt >=1 && opt <= 4) {
-            System.out.printf("%d %s %d = %d\n", num1,operacao, num2, result);   
+            System.out.printf("%d %s %d = %d\n", num1, operacao, num2, result);   
         }
     }
 }
