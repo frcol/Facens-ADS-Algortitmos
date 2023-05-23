@@ -31,7 +31,8 @@ public class Tarefa5 {
                 countImpar++;
             }
         }
-         System.out.print("Todos:");
+        
+        System.out.print("Todos:");
         for (int i = 0; i < numeros.length; i++) {
             System.out.print(numeros[i]+", ");
         }

@@ -23,7 +23,7 @@ public class Tarefa3 {
             total += notas[i];
         }
         
-        media = total / 4;
+        media = total / notas.length;
         
         System.out.println("Media: "+media);
     }

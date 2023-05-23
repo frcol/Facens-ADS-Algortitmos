@@ -22,7 +22,9 @@ public class Tarefa6 {
                 notas[i*4+j] = input.nextDouble();
                 medias[i] += notas[i*4+j];
             }
+            
             medias[i] /= 4;
+            
             System.out.println("Media: "+medias[i]);
             if (medias[i] >= 7) {
                 qtdAprovados++;
