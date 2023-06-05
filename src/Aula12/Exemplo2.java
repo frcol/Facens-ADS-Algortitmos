@@ -26,7 +26,7 @@ public class Exemplo2 {
             System.out.println();
         }
         
-        System.out.println(matriz[0][2][2]);
+        //System.out.println(matriz[0][2][2]);
     }
 }
 
